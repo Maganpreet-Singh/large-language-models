@@ -1,0 +1,3 @@
+﻿Model,Best val loss,Best val accuracy,Best loss epoch,Best accuracy epoch,Training time (s)
+Bahdanau,2.5034589767456055,0.4666666666666667,24,17,3.708619357999993
+Luong,2.660179615020752,0.4666666666666667,21,17,1.5367950300000075

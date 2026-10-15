@@ -1,0 +1,20 @@
+{
+  "best_validation_loss": 0.10636570918209412,
+  "epochs_completed": 6,
+  "config": {
+    "d_model": 64,
+    "num_heads": 4,
+    "num_encoder_layers": 1,
+    "num_decoder_layers": 1,
+    "d_ff": 128,
+    "dropout": 0.1,
+    "batch_size": 64,
+    "epochs": 6,
+    "patience": 2,
+    "warmup_steps": 300,
+    "gradient_clip_norm": 1.0,
+    "examples_per_task": 800,
+    "max_sequence_length": 48
+  },
+  "tensorflow_version": "2.21.0"
+}

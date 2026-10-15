@@ -1,0 +1,11 @@
+{
+  "dataset_examples": 10400,
+  "train_examples": 8320,
+  "validation_examples": 1040,
+  "test_examples": 1040,
+  "trainable_parameters": 123530,
+  "plots_html_count": 37,
+  "static_image_count": 0,
+  "checkpoint": "transformer_from_scratch_outputs/checkpoints/best_transformer.weights.h5",
+  "outputs_root": "transformer_from_scratch_outputs"
+}
